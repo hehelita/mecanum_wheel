@@ -27,7 +27,7 @@ int main(void)
 //	void Delay(__IO uint32_t nCount);   声明
 	char stop_motor=0;
 	control();
-} 
+}////////// 
 /*********************************************END OF FILE**********************/
 void Delay(__IO uint32_t nCount)	 //简单的延时函数  ms
 { 
