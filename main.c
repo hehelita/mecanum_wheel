@@ -1,4 +1,5 @@
 
+
 //wheel0 驱动  C6  B14   测速A6  A7
 //wheel1 驱动  C7  B15   测速B6  B7
 //wheel2 驱动  C8  D2    测速A8  A9
@@ -7,8 +8,13 @@
 
 
 // TIM—通用定时器-编码器测速
+<<<<<<< HEAD
 #include "stm32f10x.h"
 #include "bsp_GeneralTim.hhhhhhh"  
+=======
+#include "stm32f10x.hhhhhhhhh"
+#include "bsp_GeneralTim.h"  
+>>>>>>> test2
 #include "encoder.h"
 #include "bsp_usart.h"
 #include "control.h"
