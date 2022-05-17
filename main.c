@@ -8,7 +8,7 @@
 
 // TIM—通用定时器-编码器测速
 #include "stm32f10x.h"
-#include "bsp_GeneralTim.h"  
+#include "bsp_GeneralTim.hhhhhhh"  
 #include "encoder.h"
 #include "bsp_usart.h"
 #include "control.h"
